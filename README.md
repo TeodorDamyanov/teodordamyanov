@@ -1,4 +1,4 @@
-### 👋 Hello there
+## 👋 Hello there
 
 - 👦 My name is Teodor Damyanov. I am 14 years old from Bulgaria.
 
@@ -6,8 +6,17 @@
 
 - 🐍 I am currently learning Python and its framework Django. Right now Im on the sixth course of my Python learning journey - Python Web Framework.
 
+## 💻 Technologies:
+<img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" alt="postgresql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+<img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="github" width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" />
 
 
-### 📫 Social Media and Other Contacts:
+## 📫 Social Media and Other Contacts:
 - Email - damyanovteodor@gmail.com
-- LinkedIn - https://www.linkedin.com/in/teodor-damyanov-785701283/
+- LinkedIn - <a href="https://www.linkedin.com/in/alex-mehandzhiyska/">
+  <img align="left" alt="Alexandrina's LinkedIn" width="22px" src="https://github.com/dheereshagrwal/colored-icons/raw/master/svg/linkedin.svg" />
+</a>
