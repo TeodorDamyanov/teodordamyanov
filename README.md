@@ -15,6 +15,7 @@
 <img align="left" alt="github" width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" />
 
 
+
 ## 📫 Social Media and Other Contacts:
 - Email - damyanovteodor@gmail.com
 - LinkedIn - <a href="https://www.linkedin.com/in/alex-mehandzhiyska/">
