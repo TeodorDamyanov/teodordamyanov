@@ -16,6 +16,4 @@
 
 ## 📫 Social Media and Other Contacts:
 - Email - damyanovteodor@gmail.com
-- LinkedIn - <a href="https://www.linkedin.com/in/alex-mehandzhiyska/">
-  <img align="left" alt="Alexandrina's LinkedIn" width="22px" src="https://github.com/dheereshagrwal/colored-icons/raw/master/svg/linkedin.svg" />
-</a>
+- LinkedIn - https://www.linkedin.com/in/teodor-damyanov-785701283/
