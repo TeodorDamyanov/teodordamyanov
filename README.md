@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🎓 I am have been studying in Software University since March 2022 with a 5.65/6.00 GPA. I am also in a special class in school - Dutch with a profile in Software and Hardware.
 
-- ![image](https://github.com/TeodorDamyanov/teodordamyanov/assets/114014071/cc68d895-fe2d-4874-ad2b-d03a3dc50e59)
+- ![image](https://github.com/TeodorDamyanov/teodordamyanov/assets/114014071/cc68d895-fe2d-4874-ad2b-d03a3dc50e59) python
 
 
 
