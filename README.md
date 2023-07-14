@@ -13,6 +13,7 @@
 <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 <img align="left" alt="github" width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" />
+<br><br>
 
 ## 📫 Social Media and Other Contacts:
 - Email - damyanovteodor@gmail.com
