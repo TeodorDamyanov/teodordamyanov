@@ -14,6 +14,8 @@
 <img align="left" alt="pycharm" width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" />
 <img align="left" alt="postgresql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="django" width="40px" src="https://youteam.io/blog/wp-content/uploads/2022/06/django-icon-0.png" />
+<img align="left" alt="docker" width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />
+<img align="left" alt="docker-composer" width="40px" src="https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png" />
 <br><br>
 
 ## 📫 Social Media and Other Contacts:
