@@ -7,12 +7,13 @@
 - 🐍 I am currently learning Python and its framework Django. Right now Im on the sixth course of my Python learning journey - Python Web Framework.
 
 ## 💻 Technologies:
-- <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="postgresql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-<img align="left" alt="github" width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" />
+<img align="left" alt="pycharm" width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" />
+<img align="left" alt="postgresql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="django" width="40px" src="https://youteam.io/blog/wp-content/uploads/2022/06/django-icon-0.png" />
 <br><br>
 
 ## 📫 Social Media and Other Contacts:
