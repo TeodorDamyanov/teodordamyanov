@@ -4,7 +4,7 @@
 
 - 🎓 I am have been studying in Software University since March 2022 with a 5.52/6.00 GPA. I am also in a special class in school - German with a profile in Software and Hardware.
 
-- 🐍 I am currently learning Python, It's Django framework and HTML and CSS. I have just started the seventh course of my Web journey - HTML & CSS.
+- 🐍 I am currently learning Python, It's Django framework, HTML and CSS. I have just started the seventh course of my Web journey - HTML & CSS.
 
 ## 💻 Technologies:
 <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
