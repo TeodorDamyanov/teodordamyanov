@@ -2,9 +2,9 @@
 
 - 👦 My name is Teodor Damyanov. I am 15 years old from Bulgaria.
 
-- 🎓 I am have been studying in Software University since March 2022 with a 5.52/6.00 GPA. I am also in a special class in school - German with a profile in Software and Hardware.
+- 🎓 I am have been studying in Software University since March 2022 with a 5.64/6.00 GPA. I am also in a special class in school - German with a profile in Software and Hardware.
 
-- 🐍 I am currently learning Python, it's Django framework, HTML and CSS. I have just started the seventh course of my Web journey - HTML & CSS.
+- 🐍 I am currently learning DevOps. I have just started the ninth course of my Web journey - Containers and Cloud.
 
 ## 💻 Technologies:
 <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
