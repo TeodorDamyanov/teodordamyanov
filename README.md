@@ -17,7 +17,7 @@
 <img align="left" alt="postgresql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="docker" width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />
 <img align="left" alt="docker-composer" width="40px" src="https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png" />
-<img align="left" alt="terraform" width="40px" src="[https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png](https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png)" />
+<img align="left" alt="terraform" width="40px" src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png" />
 <br></br>
 
 ## 📫 Social Media and Other Contacts:
