@@ -2,9 +2,9 @@
 
 - 👦 My name is Teodor Damyanov. I am 15 years old from Bulgaria.
 
-- 🎓 I am have been studying in Software University since March 2022 with a 5.64/6.00 GPA. I am also in a special class in school - German with a profile in Software and Hardware.
+- 🎓 I have been studying at Software University since March 2022 with a 5.68/6.00 GPA. I am also in a special class in school - German with a profile in Software and Hardware.
 
-- 🐍 I am currently learning DevOps. I have just started the ninth course of my Web journey - Containers and Cloud.
+- 🐍 I am currently learning DevOps. I have just started the 6th module (10th course) of my Web journey - Software Engineering and DevOps.
 
 ## 💻 Technologies:
 <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
@@ -17,6 +17,7 @@
 <img align="left" alt="postgresql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="docker" width="40px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />
 <img align="left" alt="docker-composer" width="40px" src="https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png" />
+<img align="left" alt="terraform" width="40px" src="[https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png](https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png)" />
 <br></br>
 
 ## 📫 Social Media and Other Contacts:
