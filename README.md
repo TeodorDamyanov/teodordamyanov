@@ -19,6 +19,7 @@
 <img align="left" alt="docker-composer" width="40px" src="https://gitlab.developers.cam.ac.uk/uploads/-/system/project/avatar/4542/compose.png" />
 <img align="left" alt="terraform" width="40px" src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png" />
 <img align="left" alt="prometheus" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png" />
+<img align="left" alt="grafana" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png" />
 <br></br>
 
 ## 📫 Social Media and Other Contacts:
