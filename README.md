@@ -12,7 +12,7 @@
 <a  href="https://www.python.org/"> <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> </a>
 <a  href="https://bg.wikipedia.org/wiki/HTML"> <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" /> </a>
 <a  href="https://bg.wikipedia.org/wiki/CSS"> <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /> </a>
-<a  href="https://www.djangoproject.com/"> <img align="left" alt="django" width="40px" src="https://youteam.io/blog/wp-content/uploads/2022/06/django-icon-0.png" /> </a>
+<a  href="https://www.djangoproject.com/"> <img align="left" alt="django" width="40px" src="https://cdn.worldvectorlogo.com/logos/django.svg" /> </a>
 <a  href="https://github.com/"> <img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" /> </a>
 <a  href="https://www.jetbrains.com/pycharm/"> <img align="left" alt="pycharm" width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" /> </a>
 <a  href="https://code.visualstudio.com/"> <img align="left" alt="vsc" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /> </a>
