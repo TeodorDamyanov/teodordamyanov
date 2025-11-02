@@ -11,7 +11,7 @@
 ## 💻 Technologies I Know:
 <a  href="https://www.python.org/"> <img align="left" alt="python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> </a>
 <a  href="https://www.jetbrains.com/webstorm/"> <img align="left" alt="javascript" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqzMbIEagKXr2akOjPLHwxHIIIDk48gxLUw&s" /> </a>
-<a  href="https://dotnet.microsoft.com/en-us/languages/csharp"> <img align="left" alt="c#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" /> </a>
+<a  href="https://dotnet.microsoft.com/en-us/languages/csharp"> <img align="left" alt="c#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" /> </a>
 <a  href="https://bg.wikipedia.org/wiki/HTML"> <img align="left" alt="html" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" /> </a>
 <a  href="https://bg.wikipedia.org/wiki/CSS"> <img align="left" alt="css" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /> </a>
 <a  href="https://www.djangoproject.com/"> <img align="left" alt="django" width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" /> </a>
