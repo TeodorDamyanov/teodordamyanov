@@ -8,7 +8,7 @@
 
 - 🧠 Right now I am focusing on **perfecting my skills** and working on a website for my résumé (**Right Portion™**).
 
-## 💻 Technologies:
+## 💻 Technologies I Know:
 <a  href="https://www.python.org/"> <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> </a>
 <a  href="https://bg.wikipedia.org/wiki/HTML"> <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" /> </a>
 <a  href="https://bg.wikipedia.org/wiki/CSS"> <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /> </a>
@@ -24,7 +24,7 @@
 <a  href="https://azure.microsoft.com/en-us"> <img align="left" alt="azure" width="40px" src="https://swimburger.net/media/ppnn3pcl/azure.png" /> </a>
 <br></br>
 
-## 📫 Social Media and Other Contacts:
+## 📫 My Contacts:
 - <img align="left" alt="gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" /> - damyanovteodor@gmail.com
 
 - <img align="left" alt="linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" /> - https://www.linkedin.com/in/teodor-damyanov-785701283/
