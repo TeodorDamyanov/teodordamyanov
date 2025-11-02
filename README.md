@@ -1,12 +1,12 @@
 ## 👋 Hello there
 
-- 👦 My name is **Teodor Damyanov**. I am a 17 year old student from Bulgaria.
+- 👦 My name is **Teodor Damyanov**. I am a 17 year old student from **Bulgaria**.
 
 - 🎓 I have been studying at **Software University (SoftUni)** since March 2022 with a **5.71/6.00 GPA**. I am also in a special class in school - German with a profile in Software and Hardware.
 
 - 🐍 I have finished the **Python Full-Stack Developer** path in **SoftUni** and I have also gone through the **System and Network Compromising** open course.
 
-- 🧠 Right now I am focusing on perfecting my skills and working on a website for my résumé (**Right Portion™**).
+- 🧠 Right now I am focusing on **perfecting my skills** and working on a website for my résumé (**Right Portion™**).
 
 ## 💻 Technologies:
 <a  href="https://www.python.org/"> <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> </a>
