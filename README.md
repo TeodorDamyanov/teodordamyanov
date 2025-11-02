@@ -30,3 +30,5 @@
 - <img align="left" alt="gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" /> - damyanovteodor@gmail.com
 
 - <img align="left" alt="linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" /> - https://www.linkedin.com/in/teodor-damyanov-785701283/
+  
+- <img align="left" alt="instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" /> - https://www.instagram.com/teodor_.d/
