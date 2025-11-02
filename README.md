@@ -26,4 +26,5 @@
 
 ## 📫 Social Media and Other Contacts:
 - <img align="left" alt="gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" /> - damyanovteodor@gmail.com
+
 - <img align="left" alt="linkedin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" /> - https://www.linkedin.com/in/teodor-damyanov-785701283/
