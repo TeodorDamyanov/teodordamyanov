@@ -4,7 +4,7 @@
 
 - 🎓 I have been studying at Software University since March 2022 with a **5.71/6.00 GPA**. I am also in a special class in school - German with a profile in Software and Hardware.
 
-- 🐍 I have finished the Python Full-Stack Developer path in SoftUni and I have also gone through the System and Network Compromising open course.
+- 🐍 I have finished the **Python Full-Stack Developer** path in **SoftUni** and I have also gone through the **System and Network Compromising** open course.
 
 - 🧠 Right now I am focusing on perfecting my skills and working on a website for my résumé (**Right Portion™**).
 
