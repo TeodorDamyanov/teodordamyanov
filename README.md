@@ -6,7 +6,7 @@
 
 - 🐍 I have finished the Python Full-Stack Developer path in SoftUni and I have also gone through the System and Network Compromising open course.
 
-- 🧠 Right now I am going through the Marketing Basics course in SoftUni Digital.
+- 🧠 Right now I am focusing on perfecting my skills and working on a website for my résumé (Right Portion™).
 
 ## 💻 Technologies:
 <a  href="https://www.python.org/"> <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> </a>
