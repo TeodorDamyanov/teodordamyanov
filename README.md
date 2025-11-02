@@ -1,6 +1,6 @@
 ## 👋 Hello there
 
-- 👦 My name is Teodor Damyanov. I am a 17 year old student from Bulgaria.
+- 👦 My name is **Teodor Damyanov**. I am a 17 year old student from Bulgaria.
 
 - 🎓 I have been studying at Software University since March 2022 with a **5.71/6.00 GPA**. I am also in a special class in school - German with a profile in Software and Hardware.
 
