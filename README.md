@@ -10,6 +10,7 @@
 
 ## 💻 Technologies I Know:
 <a  href="https://www.python.org/"> <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> </a>
+<a  href="https://www.jetbrains.com/webstorm/"> <img align="left" alt="javascript" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqzMbIEagKXr2akOjPLHwxHIIIDk48gxLUw&s" /> </a>
 <a  href="https://bg.wikipedia.org/wiki/HTML"> <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" /> </a>
 <a  href="https://bg.wikipedia.org/wiki/CSS"> <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /> </a>
 <a  href="https://www.djangoproject.com/"> <img align="left" alt="django" width="40px" src="https://cdn.worldvectorlogo.com/logos/django.svg" /> </a>
