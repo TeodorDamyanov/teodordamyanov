@@ -32,3 +32,5 @@
 - <img align="left" alt="linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" /> - https://www.linkedin.com/in/teodor-damyanov-785701283/
   
 - <img align="left" alt="instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" /> - https://www.instagram.com/teodor_.d/
+
+- <img align="left" alt="facebook" width="30px" src="https://play-lh.googleusercontent.com/KCMTYuiTrKom4Vyf0G4foetVOwhKWzNbHWumV73IXexAIy5TTgZipL52WTt8ICL-oIo=w600-h300-pc0xffffff-pd" /> - https://www.facebook.com/profile.php?id=61583401026022
