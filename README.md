@@ -2,7 +2,7 @@
 
 - 👦 My name is **Teodor Damyanov**. I am a 17 year old student from **Bulgaria**.
 
-- 🎓 I have been studying at **Software University (SoftUni)** since March 2022 with a **5.71/6.00 GPA**. I am also in a special class in school - German with a profile in **Software and Hardware** and have been in the **only STEM class** in school for 3 years.
+- 🎓 I have been studying at **Software University (SoftUni)** since March 2022 with a **5.71/6.00 GPA**. I am also in a special class in school - German with a profile in **Software and Hardware** and was in a **STEM class (the only one in school history)** for 3 years.
 
 - 🐍 I have finished the **Python Full-Stack Developer** path in **SoftUni** and I have also gone through the **System and Network Compromising** open course.
 
