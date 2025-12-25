@@ -34,3 +34,4 @@
 - <img align="left" alt="instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" /> - https://www.instagram.com/teodor_.d/
 
 - <img align="left" alt="facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/2048px-2023_Facebook_icon.svg.png" /> - https://www.facebook.com/profile.php?id=61583401026022
+
