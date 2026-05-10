@@ -17,21 +17,21 @@
 <a  href="https://www.djangoproject.com/"> <img align="left" alt="django" width="30px" src="https://cdn.worldvectorlogo.com/logos/django.svg" /> </a>
 <a  href="https://github.com/"> <img align="left" alt="github" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" /> </a>
 <a  href="https://www.jetbrains.com/pycharm/"> <img align="left" alt="pycharm" width="30px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png" /> </a>
-<a  href="https://code.visualstudio.com/"> <img align="left" alt="vsc" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /> </a>
+<a  href="https://code.visualstudio.com/"> <img align="left" alt="vsc" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/960px-Visual_Studio_Code_1.35_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" /> </a>
 <a  href="https://www.postgresql.org/"> <img align="left" alt="postgresql" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /> </a>
 <a  href="https://www.docker.com/"> <img align="left" alt="docker" width="30px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> </a>
 <a  href="https://www.terraform.io/"> <img align="left" alt="terraform" width="30px" src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png" /> </a>
-<a  href="https://prometheus.io/"> <img align="left" alt="prometheus" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png" /> </a>
+<a  href="https://prometheus.io/"> <img align="left" alt="prometheus" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1280px-Prometheus_software_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" /> </a>
 <a  href="https://grafana.com/"> <img align="left" alt="grafana" width="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png" /> </a>
 <a  href="https://azure.microsoft.com/en-us"> <img align="left" alt="azure" width="30px" src="https://swimburger.net/media/ppnn3pcl/azure.png" /> </a>
 <br></br>
 
 ## 📫 My Contacts:
-- <img align="left" alt="gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" /> - damyanovteodor@gmail.com
+- <img align="left" alt="gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/3840px-Gmail_icon_%282020%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" /> - damyanovteodor@gmail.com
 
 - <img align="left" alt="linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" /> - https://www.linkedin.com/in/teodor-damyanov-785701283/
   
-- <img align="left" alt="instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" /> - https://www.instagram.com/teodor_.d/
+- <img align="left" alt="instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" /> - https://www.instagram.com/teodor_.d/
 
-- <img align="left" alt="facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/2048px-2023_Facebook_icon.svg.png" /> - https://www.facebook.com/profile.php?id=61583401026022
+- <img align="left" alt="facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/250px-Facebook_Logo_%282019%29.png" /> - https://www.facebook.com/profile.php?id=61583401026022
 
