@@ -6,7 +6,7 @@
 
 - 🐍 I have finished the **Python Full-Stack Developer** path in **SoftUni** and I have also gone through the **System and Network Compromising** open course.
 
-- 🧠 Right now I am focusing on **perfecting my skills** and working on a website for my résumé (**Right Portion™**).
+- 🧠 Right now I am focusing on **perfecting my skills**, **finishing school** and finding a **job suited for me**.
 
 ## 💻 Technologies I Know:
 <a  href="https://www.python.org/"> <img align="left" alt="python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> </a>
